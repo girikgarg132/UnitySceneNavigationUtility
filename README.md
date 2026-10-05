@@ -41,9 +41,7 @@ File
 
 ### Option 1: Unity package file
 
-Download the `.unitypackage` from the repository's Releases page, then use **Assets > Import Package > Custom Package...**.
-
-To create that file yourself, right-click `Assets/NavigationUtility` in the Project window and choose **Export Package...**.
+Download the `com.girikgarg.scenenavigationutility-1.0.0.tgz` from the repository's Releases page, then use **Assets > Import Package > Custom Package...**.
 
 ### Option 2: Package Manager (Git URL)
 

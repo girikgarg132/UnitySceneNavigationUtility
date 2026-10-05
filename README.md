@@ -154,4 +154,4 @@ For pull requests:
 
 ## License
 
-MIT © Girik Garg. See [LICENSE.md](LICENSE.md).
+MIT © Girik Garg. See [LICENSE](LICENSE).

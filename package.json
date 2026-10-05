@@ -1,0 +1,17 @@
+{
+  "name": "com.girikgarg.scenenavigationutility",
+  "displayName": "Scene Navigation Utility",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "unityRelease": "0f1",
+  "description": "Editor-only scene navigation, shareable scene lists, and local play-mode preferences. Optional native main-toolbar integration on Unity 6.3 and newer.",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "Girik Garg"
+  },
+  "hideInEditor": false,
+  "licensesUrl": "https://github.com/girikgarg132/UnitySceneNavigationUtility/blob/main/LICENSE",
+  "changelogUrl": "https://github.com/girikgarg132/UnitySceneNavigationUtility/blob/main/CHANGELOG.md"
+}
